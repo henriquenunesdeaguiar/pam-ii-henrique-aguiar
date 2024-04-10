@@ -9,5 +9,5 @@ console.log(
 
 console.log(variavel1, "mundo!"); 
 console.log(variavel1 +  "mundo!"); 
-console.log(`${variavel1}, mundo!')
+console.log(`${variavel1}, mundo!');
 
